@@ -45,7 +45,7 @@ App listening on port 3001!
 ```
 
 You can run this in Insomnia to check all of the routes.
-For each route (category-routes.js, produc-routes.js, tag-routes.js) there is a 
+For each route (category-routes.js, produce-routes.js, tag-routes.js) there is a 
 - get all
 - get by id
 - post new
